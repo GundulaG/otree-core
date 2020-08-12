@@ -142,4 +142,4 @@ msgstr "Bitte warten Sie bis der andere Teilnehmer bereit ist."
 
 #: .\views\participant.py:292
 msgid "Waiting for your session to begin"
-msgstr ""
+msgstr "Bitte warten Sie bis Ihre Session startet."
